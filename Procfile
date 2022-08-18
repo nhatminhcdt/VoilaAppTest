@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser 03_quick_animation.ipynb
